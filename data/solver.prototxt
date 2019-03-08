@@ -1,0 +1,16 @@
+train_net: "data/train.prototxt"
+test_net: "data/test.prototxt"
+test_iter: 100
+test_interval: 938
+base_lr: 0.009999999776482582
+display: 20
+max_iter: 18760
+lr_policy: "step"
+gamma: 0.10000000149011612
+momentum: 0.8999999761581421
+weight_decay: 0.0005000000237487257
+stepsize: 3000
+snapshot: 938
+snapshot_prefix: "data/lenet"
+solver_mode: GPU
+type: "SGD"
