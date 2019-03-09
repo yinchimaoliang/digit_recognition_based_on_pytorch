@@ -103,6 +103,9 @@ class Main():
             self.test()
 
 
+        torch.save(self.net,"./net.tar")
+
+
 # for batch_idx, (data, target) in enumerate(train_loader):
 #     print(data)
 #     print(target)

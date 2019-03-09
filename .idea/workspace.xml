@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="732ff393-dc1c-4407-8e2c-10577467c7ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Training_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Training_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/digit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_10318.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_10318.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_11256.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_11256.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_12194.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_12194.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_13132.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_13132.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_14070.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_14070.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_15008.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_15008.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_15946.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_15946.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_16884.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_16884.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_17822.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_17822.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_1876.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_1876.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_18760.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_18760.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_2814.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_2814.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_3752.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_3752.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_4690.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_4690.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_5628.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_5628.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_6566.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_6566.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_7504.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_7504.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_8442.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_8442.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_938.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_938.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_9380.caffemodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/lenet_iter_9380.solverstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mnist.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mnist/deploy.prototxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/solver.prototxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test.prototxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train.prototxt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,16 +15,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Training_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+            <state relative-caret-position="270">
+              <caret line="90" column="54" lean-forward="true" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="54" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deploy_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -101,6 +74,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Training_file.py" />
+        <option value="$PROJECT_DIR$/deploy_file.py" />
       </list>
     </option>
   </component>
@@ -123,31 +97,6 @@
               <item name="digit_recognition_pytorch" type="b2602c69:ProjectViewProjectNode" />
               <item name="digit_recognition_pytorch" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="digit_recognition_pytorch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="digit_recognition_pytorch" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="digit_recognition_pytorch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="digit_recognition_pytorch" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="mnist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="digit_recognition_pytorch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="digit_recognition_pytorch" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="mnist" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="digit_recognition_pytorch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="digit_recognition_pytorch" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="mnist" type="462c0819:PsiDirectoryNode" />
-              <item name="train" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -156,6 +105,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.deploy_file">
     <configuration name="Training_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="digit_recognition_pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,8 +145,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="deploy_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="digit_recognition_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deploy_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.deploy_file" />
         <item itemvalue="Python.Training_file" />
       </list>
     </recent_temporary>
@@ -245,10 +221,23 @@
     <entry file="file://$PROJECT_DIR$/data/mnist/test/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Training_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+        <state relative-caret-position="270">
+          <caret line="90" column="54" lean-forward="true" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
